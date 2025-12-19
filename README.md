@@ -1,5 +1,5 @@
 # SupCon-DAT
-Official Implementation of "Evaluating Generalization Strategies for Respiratory Sound Classification Across Heterogeneous Clinical Datasets: Algorithm Development and Multi-Cohort Validation"
+Official Implementation of "Evaluating Generalization Strategies for Respiratory Sound Classification Across Heterogeneous Clinical Datasets"
 
 
 ## Requirements
@@ -48,4 +48,4 @@ Important argument for evaluation.
 
 The pretrained model checkpoints will be saved at `save/[EXP_NAME]/best.pth`.     
 
-Our submitted paper is now under review. This repository will be updated after paper is accepted.
+Our submitted paper is now under review. This repository will be updated after the paper is accepted.
